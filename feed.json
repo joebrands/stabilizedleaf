@@ -5,8 +5,9 @@
     "home_page_url": "https://stbl.idealentropy.com",
     "feed_url": "https://stbl.idealentropy.com/feed.json",
     "user_comment": "",
+    "icon": "https://stbl.idealentropy.com/media/website/STBL-Logo.png",
     "author": {
-        "name": "Joe Brands"
+        "name": "Joseph Brands"
     },
     "items": [
     ]
